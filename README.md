@@ -1,5 +1,5 @@
 ## Hi there 👋
-It includes projects along with the Visaulization I have worked on
+Welcome to my Github Profile.
 
 <!--
 **prena10/prena10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
